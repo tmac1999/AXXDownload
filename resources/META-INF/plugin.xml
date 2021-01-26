@@ -1,17 +1,15 @@
 <idea-plugin>
-  <id>com.aixuexi.plugin.axxdownload</id>
+  <id>com.aixuexi.plugin.download</id>
   <name>AXXDownload</name>
-  <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <version>1.1</version>
+  <vendor email="119141701@@qq.com" url="https://github.com/tmac1999/AXXDownload">com.aixuexi.plugin.AXXDownload</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      download  resource zip file to the specific directory<br>
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+      https://github.com/tmac1999/com.aixuexi.plugin.AXXDownload
     ]]>
   </change-notes>
 
@@ -24,15 +22,13 @@
   <depends>com.intellij.modules.lang</depends>
   -->
 
-  <extensions defaultExtensionNs="com.intellij">
-    <!-- Add your extensions here -->
-  </extensions>
+
 
 
   <actions>
-    <!-- Add your actions here -->
-    <action id="AXXDownload" class="com.aixuexi.plugin.DownloadResource" text="AXXDownload" description="AXXDownload">
-      <add-to-group group-id="HelpMenu" anchor="first"/>
+
+    <action id="AXXDownload" class="com.aixuexi.plugin.AXXDownload" text="AXXDownload" description="AXXDownload">
+      <add-to-group group-id="ToolsMenu" anchor="first"/>
     </action>
   </actions>
 
