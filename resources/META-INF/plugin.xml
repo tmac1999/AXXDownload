@@ -28,7 +28,7 @@
   <actions>
 
     <action id="AXXDownload" class="com.aixuexi.plugin.AXXDownload" text="AXXDownload" description="AXXDownload">
-      <add-to-group group-id="ToolsMenu" anchor="first"/>
+      <add-to-group group-id="HelpMenu" anchor="first"/>
     </action>
   </actions>
 
