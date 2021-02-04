@@ -5,7 +5,15 @@
   <vendor email="119141701@@qq.com" url="https://github.com/tmac1999/AXXDownload">com.aixuexi.plugin.AXXDownload</vendor>
 
   <description><![CDATA[
-      download  resource zip file to the specific directory<br>
+      download  resource zip file to the specific directory
+      混合开发需要将前端资源包放到项目的assets目录中，当前端资源经常变动时，这种下载拷贝操作就成为了一种负担。
+      因此面对需要下载资源包到项目指定路径时（比如从server下载prod.zip，从amc下载datatrack.json等），借助插件来帮助一键同步资源包，是一个比较好的方式。
+      菜单位于Help--AXXDownload，点击后可以查看当前前端资源版本。（建议版本号version.json文件内加入时间戳来辨识）
+      1.填入目标路径，下载url，点击Sync便可以把指定url的内容下载到目标路径。
+      2.点击SaveEdit可以储存已经填好目标路径，下载url。
+      3.点击Template查看填写的模板。
+      具体操作方式可以参考 https://github.com/tmac1999/AXXDownload,
+      <br>
     ]]></description>
 
   <change-notes><![CDATA[
