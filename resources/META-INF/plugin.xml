@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.aixuexi.plugin.download</id>
   <name>AXXDownload</name>
-  <version>1.1</version>
+  <version>1.2</version>
   <vendor email="119141701@@qq.com" url="https://github.com/tmac1999/AXXDownload">com.aixuexi.plugin.AXXDownload</vendor>
 
   <description><![CDATA[
