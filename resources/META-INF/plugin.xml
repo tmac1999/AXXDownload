@@ -1,11 +1,16 @@
 <idea-plugin>
   <id>com.aixuexi.plugin.download</id>
   <name>AXXDownload</name>
-  <version>1.2</version>
-  <vendor email="119141701@@qq.com" url="https://github.com/tmac1999/AXXDownload">com.aixuexi.plugin.AXXDownload</vendor>
+  <version>1.3</version>
+  <vendor email="119141701@@qq.com" url="https://github.com/tmac1999/AXXDownload">aixuexi</vendor>
 
   <description><![CDATA[
-      download  resource zip file to the specific directory
+      Download  resource zip file to the specific directory.
+      In hybrid app ,we need h5/rn resource to be embedded in our app project(most of the resource will be put into the assets file)
+      When  native develop process rely on h5/rn page(process),native developer should change h5/rn resource frequently,so the download&copy&paste was
+      a burden for native developers.(It`s waste of time)
+      In this plugin,edit the resource url and destination path,it will help you synchronize the resource just like gradle sync,otherwise,We can see the resource version
+      clearly in the panel(You should make a version.json file in your resource zip first )
       混合开发需要将前端资源包放到项目的assets目录中，当前端资源经常变动时，这种下载拷贝操作就成为了一种负担。
       因此面对需要下载资源包到项目指定路径时（比如从server下载prod.zip，从amc下载datatrack.json等），借助插件来帮助一键同步资源包，是一个比较好的方式。
       菜单位于Help--AXXDownload，点击后可以查看当前前端资源版本。（建议版本号version.json文件内加入时间戳来辨识）
