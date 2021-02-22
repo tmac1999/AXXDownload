@@ -5,7 +5,7 @@ intellij idea download plugin
 ![png](http://gitlab.ops.aixuexi.com/axx-app-rd/app-lib-android/lib-axx-plugin-intellij/blob/master/introduction2.png)
 
 ### 输入下载地址 和目标地址，点击sync ，自动将资源下载进目标目录
-![png](http://gitlab.ops.aixuexi.com/axx-app-rd/app-lib-android/lib-axx-plugin-intellij/blob/master/introduction1.png)
+![png](http://lc-oapjpjdn.cn-n1.lcfile.com/0b299eba67443f5f0c81.png/introduction1.png)
 
 see in plugins.jetbrains:
-https://plugins.jetbrains.com/plugin/15936-axxdownload?preview=true
+https://plugins.jetbrains.com/plugin/15936-axxdownload
