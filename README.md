@@ -7,7 +7,7 @@ intellij idea download plugin
 ### 点击 Help -->AXXDownload
 ![png](http://lc-OapjPjDn.cn-n1.lcfile.com/d737ece617237f0a6c25.png/introduction2.png)
 
-### 输入下载地址 和目标地址，
+### 会弹出如下面板，在面板中输入下载地址 和目标地址：
 ##### 点击sync ，自动将资源下载进目标目录，【可以通过checkbox 选择当前需要sync的资源项】
 ##### 点击SaveEdit可以保存输入的下载地址 和目标地址，
 ##### 下次可以通过此面板查看各资源的版本和时间戳
