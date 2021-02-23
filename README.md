@@ -15,6 +15,8 @@ intellij idea download plugin
 
 ##### 替换成功之后的提示
 ![png](http://lc-oapjpjdn.cn-n1.lcfile.com/0b299eba67443f5f0c81.png/introduction1.png)
-
+##### 资源更新了
+![png](http://lc-OapjPjDn.cn-n1.lcfile.com/5e15e7d3977d7061fd95.png/introduction6.png
+)
 see in plugins.jetbrains:
 https://plugins.jetbrains.com/plugin/15936-axxdownload
