@@ -18,5 +18,5 @@ intellij idea download plugin
 ##### 本地的资源更新了
 ![png](http://lc-OapjPjDn.cn-n1.lcfile.com/5e15e7d3977d7061fd95.png/introduction6.png
 )
-see in plugins.jetbrains:
+##### see in plugins.jetbrains:
 https://plugins.jetbrains.com/plugin/15936-axxdownload
