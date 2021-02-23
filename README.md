@@ -13,9 +13,9 @@ intellij idea download plugin
 ##### 下次可以通过此面板查看各资源的版本和时间戳
 ![png](http://lc-OapjPjDn.cn-n1.lcfile.com/ce4322f8249785c5416f.png/introduction4.png)
 
-##### 替换成功之后的提示
+##### Sync成功之后的提示
 ![png](http://lc-oapjpjdn.cn-n1.lcfile.com/0b299eba67443f5f0c81.png/introduction1.png)
-##### 资源更新了
+##### 本地的资源更新了
 ![png](http://lc-OapjPjDn.cn-n1.lcfile.com/5e15e7d3977d7061fd95.png/introduction6.png
 )
 see in plugins.jetbrains:
